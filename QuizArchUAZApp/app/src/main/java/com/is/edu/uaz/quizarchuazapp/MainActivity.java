@@ -10,4 +10,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+
+    public void agregarCodigo(){
+        System.out.println("AQUI AGREGUE CÓDIGO GADIEL Y SE TIENEN QUE VER LOS CAMBIOS EN GITHUB");
+    }
 }
